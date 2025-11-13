@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9466900E-C1BA-4BDD-9903-36B6C50C583E}</ProjectGuid>
+    <ProjectGuid>{5F792041-0688-4F12-ABB4-01D3F5727131}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloGit</RootNamespace>
-    <AssemblyName>HelloGit</AssemblyName>
+    <RootNamespace>HelloGitApp</RootNamespace>
+    <AssemblyName>HelloGitApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

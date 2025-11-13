@@ -1,0 +1,7 @@
+HelloGitApp/HelloGitApp/bin
+HelloGitApp/HelloGitApp/obj
+HelloGitApp/.vs
+HelloGitApp/HelloGitApp/*.user
+HelloGitApp/HelloGitApp/*.suo
+HelloGitApp/HelloGitApp/*.cache
+HelloGitApp/HelloGitApp/*.log
