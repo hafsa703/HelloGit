@@ -13,6 +13,7 @@ namespace HelloGitApp
             Console.WriteLine("Hello, Git!");
             Console.WriteLine("Quel est votre nom?");
             string nom = Console.ReadLine();
+            Console.WriteLine("13.11.2015");
         }
     }
 }
